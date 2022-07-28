@@ -1,2 +1,2 @@
-# Desafio-DIO-Anota-es-MOD1
+# Repositorio do desafio-DIO-Anotacoes Modulo1
 Desafio de Projeto Github
